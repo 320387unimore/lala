@@ -1,0 +1,5 @@
+runtime: python312
+handlers:
+  - url: '/.*'
+    secure: always
+    script: auto
